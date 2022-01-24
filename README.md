@@ -22,3 +22,6 @@ Mediante este patrón crea los siguientes paquetes y calcula el costo correspond
 
 Ejecución:
 
+![Image txt](https://github.com/Edwin9927/decorator/blob/main/Captura%20de%20Pantalla%202022-01-23%20a%20la(s)%2019.25.58.png)
+
+
