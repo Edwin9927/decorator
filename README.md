@@ -5,7 +5,7 @@ Empleando el patrón decorator implementa una pequeña tienda de computadores, d
 
 A estos tres modelos se les puede añadir los siguientes componentes:
 
-    ° 4GB de RAM (25 USD)
+    • 4GB de RAM (25 USD)
 
     • Lector Blu-ray (85 USD)
 
