@@ -1,7 +1,13 @@
 # Patron decorator
 ![Image txt](https://github.com/Edwin9927/decorator/blob/main/Package%20decorator.png)
 
-Empleando el patrón decorator implementa una pequeña tienda de computadores, donde se venden tres modelos de computadoras: HP (500.00 USD), Lenovo (600 USD) y Apple (950 USD). 
+Empleando el patrón decorator implementa una pequeña tienda de computadores, donde se venden tres modelos de computadoras: 
+
+    • HP (500.00 USD)
+    
+    • Lenovo (600 USD) 
+    
+    • Apple (950 USD) 
 
 A estos tres modelos se les puede añadir los siguientes componentes:
 
