@@ -1,4 +1,6 @@
-# Patron decorator
+# Patrón Decorador
+
+
 ![Image txt](https://github.com/Edwin9927/decorator/blob/main/Package%20decorator.png)
 
 Empleando el patrón decorator implementa una pequeña tienda de computadores, donde se venden tres modelos de computadoras: 
